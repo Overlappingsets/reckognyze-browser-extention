@@ -1,0 +1,16 @@
+@import '../styles/globals.css';
+
+html, body, #panel-root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: transparent;
+}
+
+#panel-root {
+  display: flex;
+  flex-direction: column;
+}

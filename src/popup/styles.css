@@ -1,0 +1,11 @@
+@import '../styles/globals.css';
+
+body {
+  width: 320px;
+  min-height: 200px;
+  overflow-x: hidden;
+}
+
+#popup-root {
+  min-height: 200px;
+}
