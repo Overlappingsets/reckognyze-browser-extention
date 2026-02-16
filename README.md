@@ -11,7 +11,6 @@ A Chrome/Edge browser extension for managing personalization profiles with Recko
 - **Profile Data**: Store sizing, color preferences, allergies, and personal status
 
 ## Installation (Development)
-##test
 
 1. Navigate to the extension directory:
    ```bash
